@@ -1,16 +1,26 @@
 ## Hi there 👋
+# नमस्ते (Namaste) 🙏 I'm Roshan
 
-<!--
-**Roshan77132/Roshan77132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer** | 💻 **UI/UX Enthusiast** | 🌐 **Web Technologies**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about creating innovative web solutions and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express, MongoDB
+- **Tools:** Git, GitHub, VS Code, Figma
+
+## 🌟 Featured Projects
+- [Calculator App](https://roshan77132.github.io/calculator) - A modern calculator with responsive design
+- [Project 2] - Brief description
+- [Project 3] - Brief description
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshan77132&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- **Email:** your.email@domain.com
+- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **Portfolio:** [Your Website](https://yourwebsite.com)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Roshan77132.Roshan77132)
